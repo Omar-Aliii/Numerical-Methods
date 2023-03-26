@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679603598 source:c:\users\omar ali\desktop\omar's pc\testing stuff\numerical\main.cpp
+	<iostream>
+	<math.h>
+
